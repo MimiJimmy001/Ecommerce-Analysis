@@ -1,8 +1,12 @@
 # 基于 PySpark 的电商经营分析与用户价值分层
 
+[![Syntax CI](https://github.com/MimiJimmy001/Ecommerce-Analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/MimiJimmy001/Ecommerce-Analysis/actions/workflows/ci.yml)
+[![PySpark](https://img.shields.io/badge/PySpark-3.4%2B-E25A1C?logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 基于 Kaggle 公开的巴西电商 Olist 数据集（2016–2018 年，约 10 万条订单记录），使用 **PySpark** 完成从数据清洗、指标计算到 RFM 客户分层的全链路经营分析，围绕区域、趋势、品类、客户结构四个维度输出经营结论，并以 Matplotlib 生成可视化分析报告。
 
-数据集：[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)（下载后放入 `data/` 目录）
+数据集：[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)（下载解压后放入 `data/` 目录）。仓库不提交约 21 MB 的原始压缩包。
 
 ## 分析内容
 
