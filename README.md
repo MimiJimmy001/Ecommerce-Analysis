@@ -10,6 +10,8 @@
 
 ## 项目内容导航
 
+- [可视化与可解释性](docs/VISUAL_GUIDE.md)：4 个以上 Mermaid 思维导图、流程图和指标解释
+
 - [项目案例研究](docs/CASE_STUDY.md)：指标口径、双层宽表、RFM 设计、核心结论和面试讲解
 - [分析主脚本](analysis.py)、[可视化脚本](visualize.py)
 ## 分析内容
