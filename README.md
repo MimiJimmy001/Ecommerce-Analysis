@@ -8,6 +8,10 @@
 
 数据集：[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)（下载解压后放入 `data/` 目录）。仓库不提交约 21 MB 的原始压缩包。
 
+## 项目内容导航
+
+- [项目案例研究](docs/CASE_STUDY.md)：指标口径、双层宽表、RFM 设计、核心结论和面试讲解
+- [分析主脚本](analysis.py)、[可视化脚本](visualize.py)
 ## 分析内容
 
 | 模块 | 说明 |
